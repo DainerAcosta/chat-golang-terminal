@@ -5,3 +5,6 @@ Server with the ability to manage different TCP connections
 
 ## Client
 Command line interface capable of connecting to an external server and sending and receiving messages over a TCP connection.
+
+## Task
+* Add functionality that support multichannel (different chat rooms)
